@@ -1,6 +1,6 @@
 # PneumoniaClassification
 
-In this project, I compared different Neural Network performances by training and testing models on Pneumonia data from x-ray imaging.\
+In this project, I compared different Neural Network performances by training and testing models on Pneumonia data from x-ray imaging.
 
 The goal of this project was to gain hands-on experience using real image data readily available through Kaggle, as well as common Deep Learning libraries such as TensorFlow and Keras.
 
